@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+class_ny_arrests.csv filter=lfs diff=lfs merge=lfs -text
